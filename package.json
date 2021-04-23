@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Jeanne d'Arc NYIRAMWIZA",
-	"description":"Learning APIs and microservices"
+	"description":"Learning APIs and microservices",
+	"keywords": ["Nodejs","APIs","Routes","freeCodeCamp"]
 }
