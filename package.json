@@ -1,11 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"engines":{
-		"npm":"6.14.12",
-		"node":"14.16.1"
-
+	"engines": {
+		"npm": "6.14.12",
+		"node": "14.16.1"
 	},
-	
 	"dependencies": {
 		"moment": "2.14.0"
 	},
