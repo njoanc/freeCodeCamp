@@ -13,5 +13,6 @@
 	},
 	"author": "Jeanne d'Arc NYIRAMWIZA",
 	"description":"Learning APIs and microservices",
-	"keywords": ["Nodejs","APIs","Routes","freecodecamp"]
+	"keywords": ["Nodejs","APIs","Routes","freecodecamp"],
+	"lcence":"MIT"
 }
